@@ -1,4 +1,4 @@
-TEAM README FOR A-TEAM _____
+TEAM README FOR A-TEAM _____ (enter your A-TEAM number)
 =============================================================================
 A-TEAM MEMBERS: (add name, email, the member's x-team number for each member)
 
@@ -10,6 +10,6 @@ name4, _________@wisc.edu, x-team-___
 PREFERRED RUBRIC:  _____________
 
 * Choose STANDARD or ALTERNATE for your team's preferred rubric 
-based on the work your team submits and the tentative grading rubrics 
+based on the work your team submits and the tentative grading rubric options 
 https://pages.cs.wisc.edu/~deppeler/cs400/assignments/p5/files/grading-rubric-tentative.pdf
 =============================================================================
