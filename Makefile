@@ -14,3 +14,7 @@ srcbin: src/application/Main.java
 
 clean:
 	\rm application/*.class	
+
+
+cleanbin:
+	\rm bin/application/*.class	
