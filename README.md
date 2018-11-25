@@ -45,3 +45,7 @@ rmdir FoodQuery                                          # remove the FoodQuery 
 ### Or, download files as in previous assignments from the assignment page
 
 https://pages.cs.wisc.edu/~deppeler/cs400/assignments/p5/files/
+
+# Submit files
+
+http://htmlpreview.github.io/?https://github.com/cs400-deppeler/FoodQuery/blob/master/docs/submit-instructions.html
